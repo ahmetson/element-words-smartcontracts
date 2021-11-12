@@ -1,0 +1,36 @@
+{
+  "name": "element-words-smartcontracts",
+  "version": "1.0.0",
+  "description": "The smartcontracts of the Element Words. A tutorial game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blocklords/lighthouse-smartcontracts.git"
+  },
+  "keywords": [
+    "seascape",
+    "ahmetson",
+    "p2e",
+    "crowns",
+    "cws"
+  ],
+  "author": "Medet Ahmetson (ahmetson@zoho.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmetson/element-words-smartcontracts/issues"
+  },
+  "homepage": "https://github.com/ahmetson/element-words-smartcontracts#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.6",
+    "hardhat": "^2.6.2",
+    "@openzeppelin/contracts": "^4.3.1"
+  }
+}
